@@ -86,6 +86,7 @@
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
+- [capgo-skills](https://github.com/Cap-go/capgo-skills) - 55 skills for Capacitor mobile apps: plugins, Capacitor 9 and Xcode 27 upgrades, debugging, testing, security, push, deep links, and live updates.
 
 
 ## 📊 Data & Analysis
